@@ -1,1 +1,6 @@
 c:\users\david.zagwyn\documents\visual studio 2013\Projects\EulerProject\EulerProject\bin\Debug\EulerProject.exe.config
+c:\users\david.zagwyn\documents\visual studio 2013\Projects\EulerProject\EulerProject\obj\Debug\EulerProject.csprojResolveAssemblyReference.cache
+c:\users\david.zagwyn\documents\visual studio 2013\Projects\EulerProject\EulerProject\bin\Debug\EulerProject.exe
+c:\users\david.zagwyn\documents\visual studio 2013\Projects\EulerProject\EulerProject\bin\Debug\EulerProject.pdb
+c:\users\david.zagwyn\documents\visual studio 2013\Projects\EulerProject\EulerProject\obj\Debug\EulerProject.exe
+c:\users\david.zagwyn\documents\visual studio 2013\Projects\EulerProject\EulerProject\obj\Debug\EulerProject.pdb
