@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="HighlyDivisibleTriangularNumber12.cs" />
     <Compile Include="SpecialPythagoreanTriplet9.cs" />
     <Compile Include="SummationOfPrimes10.cs" />
     <Compile Include="TenThousandOnestPrime.cs" />
